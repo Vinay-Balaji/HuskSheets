@@ -1,3 +1,5 @@
+Created by: Vinayajitesh Balaji, Ben Yoon, Tony Ngumah, Theo Kyenkyenhene
+
 OVERVIEW
 The HuskSheets application works in parallel with two different publicly deployed websites/server:
 https://husksheets.fly.dev/api/v1/ and https://husksheet-cb47d5864e1b.herokuapp.com/api/v1/. The
